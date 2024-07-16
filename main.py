@@ -1,1 +1,1 @@
-Omer Hagever
+print("Omer Hagever")
